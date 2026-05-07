@@ -1,16 +1,3 @@
-# Environments
-.env/
-venv/
-env/
-
-# Python caching
 __pycache__/
+.env
 *.pyc
-
-# ML Models and Data
-saved_models/*.pkl
-data/*.csv
-data/*.json
-
-# VSCode (Optional, but good practice)
-.vscode/
